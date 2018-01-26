@@ -17,6 +17,11 @@ Hardware
 Code
 -----
 
+Read the Android Things documentation
+For more information about Android Things, the official documentation is available here
+
+Create a native companion app
+
 Support
 --------
 
