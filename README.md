@@ -2,7 +2,8 @@
 
 💻 :octocat: Source of AndroidThings QuickStart Workshop
 
-# Starter Kits
+Starter Kits
+-----------
 
--Pico Maker Kit
--Intel Edison Grove
+- Pico Maker Kit
+- Intel Edison Grove
